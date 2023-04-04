@@ -1,0 +1,53 @@
+{
+    "recipes": [
+        {
+            "id": 1,
+            "title": "Chicken Burger",
+            "image_url": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg",
+            "position": 1,
+            "difficulty": "easy"
+        },
+        {
+            "id": 2,
+            "title": "Beef Burger",
+            "image_url": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg",
+            "position": 2,
+            "difficulty": "easy"
+        },
+        {
+            "id": 3,
+            "title": "Vegan Burger",
+            "image_url": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg",
+            "position": 3,
+            "difficulty": "medium"
+        },
+        {
+            "id": 4,
+            "title": "Breakfast Burger",
+            "image_url": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg",
+            "position": 4,
+            "difficulty": "medium"
+        },
+        {
+            "id": 5,
+            "title": "Lunch Burger",
+            "image_url": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg",
+            "position": 5,
+            "difficulty": "hard"
+        },
+        {
+            "id": 6,
+            "title": "Dinner Burger",
+            "image_url": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg",
+            "position": 6,
+            "difficulty": "hard"
+        },
+        {
+            "id": 7,
+            "title": "Mid-night Burger",
+            "image_url": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg",
+            "position": 7,
+            "difficulty": "hard"
+        },
+    ]
+}
